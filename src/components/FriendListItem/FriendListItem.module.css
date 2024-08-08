@@ -1,0 +1,25 @@
+.style {
+  color: black;
+  font-weight: bold;
+}
+
+.online {
+  color: green;
+}
+
+.offline {
+  color: red;
+}
+
+.cont {
+  /* display: flex; */
+  border: 2px solid black;
+  padding: 8px;
+  border-radius: 10px;
+  text-align: center;
+  align-content: center;
+}
+.name {
+  font-weight: bold;
+  font-size: 1.5em;
+}
